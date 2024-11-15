@@ -18,7 +18,7 @@ class RegressorABC(abc.ABC):
             abscissa: последовательность абсцисс точек.
             ordinates: последовательность ординат точек.
         """
-        ...
+        
 
     @abc.abstractmethod
     def predict(
