@@ -31,6 +31,8 @@
 - [Классы](./lessons/sem_01/lesson_04/);
 - [Объектно-ориентированное программирование на Python](./lessons/sem_01/lesson_05/);
 - [Исключения](./lessons/sem_01/lesson_06/);
+- [Модули](./lessons/sem_01/lesson_07/);
+- [Числовые протоколы](./lessons/sem_01/lesson_08/);
 
 **Домашние работы:**
 - [Дамашнее задание 1](./homeworks/sem_01/hw1/);
